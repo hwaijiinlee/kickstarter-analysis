@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 ## Overview of Project
-Louise saw success in her fundraising efforts for the play Fever and is keen to understand how other campaigns fared.
+Louise saw success in her fundraising efforts for the play *Fever* and is keen to understand how other campaigns fared.
 ### Purpose
 This analysis is performed to investigate the outcomes of theater-related campaigns based on their launch dates as well as how campaigns for plays fare based on their fundraising goals.
 ## Analysis and Challenges
